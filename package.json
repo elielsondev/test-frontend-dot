@@ -1,0 +1,22 @@
+{
+  "name": "test-frontend-dot",
+  "version": "1.0.0",
+  "description": "\"Projeto de teste para vaga de Desenvolvedor Frontend Júnior na DOT\"",
+  "main": "script.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/elielsondev/test-frontend-dot.git"
+  },
+  "author": "Elielson Nascimento <nascimento.elielson@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/elielsondev/test-frontend-dot/issues"
+  },
+  "homepage": "https://github.com/elielsondev/test-frontend-dot#readme",
+  "devDependencies": {
+    "jest": "^29.3.1"
+  }
+}
